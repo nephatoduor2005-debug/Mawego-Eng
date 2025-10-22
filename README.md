@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Mawego Polytechnic Web Application
+
+This is a web application for Mawego Polytechnic, designed to provide a central hub for students, faculty, and administrators. It includes portals for students and faculty, as well as a career hub for job seekers.
+
+## Features
+
+*   **Student Portal:** Allows students to view their courses, grades, and other academic information.
+*   **Faculty Portal:** Allows faculty to manage their courses, view student information, and post grades.
+*   **Career Hub:** A platform for students and alumni to find job opportunities.
+*   **Modern UI:** A clean and modern user interface built with Next.js and Tailwind CSS.
+*   **Responsive Design:** The application is designed to work on all devices, from desktops to mobile phones.
+
+## Technologies Used
+
+*   **Next.js:** A React framework for building server-rendered applications.
+*   **Tailwind CSS:** A utility-first CSS framework for rapid UI development.
+*   **Firebase:** A platform for building web and mobile applications, used for database and authentication.
+*   **React Icons:** A library of popular icons for React applications.
 
 ## Getting Started
 
-First, run the development server:
+To get a local copy up and running, follow these simple steps.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Prerequisites
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+*   Node.js and npm installed on your machine.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### Installation
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1.  Clone the repo
+    ```sh
+    git clone https://github.com/your_username_/your_project_name.git
+    ```
+2.  Install NPM packages
+    ```sh
+    npm install
+    ```
 
-## Learn More
+### Running the Application
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1.  Start the development server
+    ```sh
+    npm run dev
+    ```
+2.  Open your browser and navigate to `http://localhost:3000`.

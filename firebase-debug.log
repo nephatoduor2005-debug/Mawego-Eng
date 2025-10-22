@@ -1,0 +1,769 @@
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T12:10:48.487Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T12:10:48.522Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T12:10:48.542Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T12:11:44.366Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T12:11:44.412Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T12:11:44.414Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T12:15:26.156Z] ----------------------------------------------------------------------
+[debug] [2025-10-22T12:15:26.159Z] Command:       /nix/store/ixbb20farqh1f4fqbmsn6b1ixn8mc8ij-nodejs-20.18.1/bin/node /home/user/.global_modules/bin/firebase init
+[debug] [2025-10-22T12:15:26.160Z] CLI Version:   14.20.0
+[debug] [2025-10-22T12:15:26.160Z] Platform:      linux
+[debug] [2025-10-22T12:15:26.160Z] Node Version:  v20.18.1
+[debug] [2025-10-22T12:15:26.161Z] Time:          Wed Oct 22 2025 12:15:26 GMT+0000 (Coordinated Universal Time)
+[debug] [2025-10-22T12:15:26.161Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-10-22T12:15:26.164Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2025-10-22T12:15:26.266Z] No OAuth tokens found
+[debug] [2025-10-22T12:15:26.266Z] No OAuth tokens found
+[error] Failed to fetch Firebase Project from current Studio Workspace: Unable to refresh auth: not yet authenticated.
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/user/mawego-engineering
+
+[debug] [2025-10-22T12:15:26.537Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2025-10-22T12:15:26.538Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T12:40:11.182Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[info] 
+=== Firestore Setup Actuation
+[info] ✔  Wrote firestore.rules 
+[info] ✔  Wrote firestore.indexes.json 
+[info] ✔  Wrote configuration info to firebase.json 
+[info] ✔  Wrote project information to .firebaserc 
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T13:15:10.278Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T13:15:10.328Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T13:15:10.350Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T13:20:47.001Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T13:20:47.040Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T13:20:47.056Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T13:20:59.910Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T13:20:59.930Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T13:56:08.016Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T13:56:08.049Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T13:56:08.072Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T13:56:13.947Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T13:56:13.957Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T13:58:31.806Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T13:58:31.833Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T13:58:31.845Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T13:58:38.725Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T13:58:38.735Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T14:25:40.083Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T14:25:40.142Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T14:25:40.171Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T14:25:45.052Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:25:45.056Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T14:32:29.696Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T14:32:29.761Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:32:29.764Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T14:32:34.766Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T14:32:34.797Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T14:35:11.736Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:35:11.769Z] No OAuth tokens found
+[debug] [2025-10-22T14:35:11.769Z] No OAuth tokens found
+[debug] [2025-10-22T14:35:11.770Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:36:03.281Z] Running auto auth
+[debug] [2025-10-22T14:36:03.310Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/427557163157/services/cloudresourcemanager.googleapis.com [none]
+[debug] [2025-10-22T14:36:03.314Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/427557163157/services/cloudresourcemanager.googleapis.com x-goog-quota-user=projects/427557163157
+[debug] [2025-10-22T14:36:04.179Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/427557163157/services/cloudresourcemanager.googleapis.com 200
+[debug] [2025-10-22T14:36:04.180Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/427557163157/services/cloudresourcemanager.googleapis.com [omitted]
+[debug] [2025-10-22T14:36:04.189Z] No OAuth tokens found
+[debug] [2025-10-22T14:36:04.193Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T14:36:04.839Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T14:36:04.840Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[info] Updating Studio Workspace active project to match Firebase CLI '427557163157'
+[error] Failed to update Firebase Project for Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[info] Now using project 427557163157
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T14:37:00.408Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:37:00.408Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:37:00.409Z] No OAuth tokens found
+[debug] [2025-10-22T14:37:00.409Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T14:37:01.083Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T14:37:01.083Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T14:37:01.087Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:37:01.087Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:37:01.088Z] No OAuth tokens found
+[debug] [2025-10-22T14:37:01.088Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T14:37:01.287Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T14:37:01.288Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[debug] [2025-10-22T14:37:01.288Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:37:01.288Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:37:01.296Z] No OAuth tokens found
+[debug] [2025-10-22T14:37:01.307Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/mawego-engineering-companion/webApps pageSize=100
+[debug] [2025-10-22T14:37:01.552Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/mawego-engineering-companion/webApps 200
+[debug] [2025-10-22T14:37:01.554Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/mawego-engineering-companion/webApps {}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T14:37:25.041Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:37:25.041Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:37:25.042Z] No OAuth tokens found
+[debug] [2025-10-22T14:37:25.042Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T14:37:25.696Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T14:37:25.696Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T14:37:25.704Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:37:25.704Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:37:25.704Z] No OAuth tokens found
+[debug] [2025-10-22T14:37:25.705Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T14:37:25.868Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T14:37:25.868Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[debug] [2025-10-22T14:37:25.869Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:37:25.870Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:37:25.873Z] No OAuth tokens found
+[debug] [2025-10-22T14:37:25.874Z] >>> [apiv2][query] POST https://firebase.googleapis.com/v1beta1/projects/mawego-engineering-companion/webApps [none]
+[debug] [2025-10-22T14:37:25.874Z] >>> [apiv2][body] POST https://firebase.googleapis.com/v1beta1/projects/mawego-engineering-companion/webApps {"displayName":"Mawego Web App"}
+[debug] [2025-10-22T14:37:26.999Z] <<< [apiv2][status] POST https://firebase.googleapis.com/v1beta1/projects/mawego-engineering-companion/webApps 200
+[debug] [2025-10-22T14:37:27.002Z] <<< [apiv2][body] POST https://firebase.googleapis.com/v1beta1/projects/mawego-engineering-companion/webApps {"name":"operations/workflows/YzU0ZTkxMzktYWFkMy00ODBkLTk4MTQtYmM4NWUxNzI1YThm"}
+[debug] [2025-10-22T14:37:27.007Z] No OAuth tokens found
+[debug] [2025-10-22T14:37:27.007Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/operations/workflows/YzU0ZTkxMzktYWFkMy00ODBkLTk4MTQtYmM4NWUxNzI1YThm [none]
+[debug] [2025-10-22T14:37:27.287Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/operations/workflows/YzU0ZTkxMzktYWFkMy00ODBkLTk4MTQtYmM4NWUxNzI1YThm 200
+[debug] [2025-10-22T14:37:27.288Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/operations/workflows/YzU0ZTkxMzktYWFkMy00ODBkLTk4MTQtYmM4NWUxNzI1YThm {"name":"operations/workflows/YzU0ZTkxMzktYWFkMy00ODBkLTk4MTQtYmM4NWUxNzI1YThm"}
+[debug] [2025-10-22T14:37:27.789Z] [Create Web app Poller] Retrying task index 0
+[debug] [2025-10-22T14:37:27.795Z] No OAuth tokens found
+[debug] [2025-10-22T14:37:27.795Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/operations/workflows/YzU0ZTkxMzktYWFkMy00ODBkLTk4MTQtYmM4NWUxNzI1YThm [none]
+[debug] [2025-10-22T14:37:28.052Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/operations/workflows/YzU0ZTkxMzktYWFkMy00ODBkLTk4MTQtYmM4NWUxNzI1YThm 200
+[debug] [2025-10-22T14:37:28.053Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/operations/workflows/YzU0ZTkxMzktYWFkMy00ODBkLTk4MTQtYmM4NWUxNzI1YThm {"name":"operations/workflows/YzU0ZTkxMzktYWFkMy00ODBkLTk4MTQtYmM4NWUxNzI1YThm"}
+[debug] [2025-10-22T14:37:29.054Z] [Create Web app Poller] Retrying task index 0
+[debug] [2025-10-22T14:37:29.056Z] No OAuth tokens found
+[debug] [2025-10-22T14:37:29.056Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/operations/workflows/YzU0ZTkxMzktYWFkMy00ODBkLTk4MTQtYmM4NWUxNzI1YThm [none]
+[debug] [2025-10-22T14:37:29.306Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/operations/workflows/YzU0ZTkxMzktYWFkMy00ODBkLTk4MTQtYmM4NWUxNzI1YThm 200
+[debug] [2025-10-22T14:37:29.307Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/operations/workflows/YzU0ZTkxMzktYWFkMy00ODBkLTk4MTQtYmM4NWUxNzI1YThm {"name":"operations/workflows/YzU0ZTkxMzktYWFkMy00ODBkLTk4MTQtYmM4NWUxNzI1YThm"}
+[debug] [2025-10-22T14:37:31.308Z] [Create Web app Poller] Retrying task index 0
+[debug] [2025-10-22T14:37:31.309Z] No OAuth tokens found
+[debug] [2025-10-22T14:37:31.309Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/operations/workflows/YzU0ZTkxMzktYWFkMy00ODBkLTk4MTQtYmM4NWUxNzI1YThm [none]
+[debug] [2025-10-22T14:37:31.576Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/operations/workflows/YzU0ZTkxMzktYWFkMy00ODBkLTk4MTQtYmM4NWUxNzI1YThm 200
+[debug] [2025-10-22T14:37:31.576Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/operations/workflows/YzU0ZTkxMzktYWFkMy00ODBkLTk4MTQtYmM4NWUxNzI1YThm {"name":"operations/workflows/YzU0ZTkxMzktYWFkMy00ODBkLTk4MTQtYmM4NWUxNzI1YThm"}
+[debug] [2025-10-22T14:37:35.579Z] [Create Web app Poller] Retrying task index 0
+[debug] [2025-10-22T14:37:35.586Z] No OAuth tokens found
+[debug] [2025-10-22T14:37:35.591Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/operations/workflows/YzU0ZTkxMzktYWFkMy00ODBkLTk4MTQtYmM4NWUxNzI1YThm [none]
+[debug] [2025-10-22T14:37:35.833Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/operations/workflows/YzU0ZTkxMzktYWFkMy00ODBkLTk4MTQtYmM4NWUxNzI1YThm 200
+[debug] [2025-10-22T14:37:35.836Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/operations/workflows/YzU0ZTkxMzktYWFkMy00ODBkLTk4MTQtYmM4NWUxNzI1YThm {"name":"operations/workflows/YzU0ZTkxMzktYWFkMy00ODBkLTk4MTQtYmM4NWUxNzI1YThm","done":true,"response":{"@type":"type.googleapis.com/google.firebase.service.v1beta1.WebApp","name":"projects/mawego-engineering-companion/webApps/1:427557163157:web:4fc95c478cfc61ab1bcb9c","appId":"1:427557163157:web:4fc95c478cfc61ab1bcb9c","displayName":"Mawego Web App","projectId":"mawego-engineering-companion","webId":"NjliZjIxOGEtY2QyOS00YjczLWFkOTQtZDEyNWY3YjFiYWUz","apiKeyId":"ee298904-85e1-4a29-9ba9-b7b870ca92fc","state":"ACTIVE","expireTime":"1970-01-01T00:00:00Z","etag":"1_91390add-d38a-4020-a753-fc8ae6fff5c8"}}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T14:37:42.060Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:37:42.060Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:37:42.061Z] No OAuth tokens found
+[debug] [2025-10-22T14:37:42.061Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T14:37:42.712Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T14:37:42.717Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T14:37:42.724Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:37:42.726Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:37:42.728Z] No OAuth tokens found
+[debug] [2025-10-22T14:37:42.730Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T14:37:42.909Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T14:37:42.921Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[debug] [2025-10-22T14:37:42.922Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:37:42.922Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:37:42.926Z] No OAuth tokens found
+[debug] [2025-10-22T14:37:42.929Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/mawego-engineering-companion/webApps pageSize=100
+[debug] [2025-10-22T14:37:43.102Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/mawego-engineering-companion/webApps 200
+[debug] [2025-10-22T14:37:43.108Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/mawego-engineering-companion/webApps {"apps":[{"name":"projects/mawego-engineering-companion/webApps/1:427557163157:web:4fc95c478cfc61ab1bcb9c","appId":"1:427557163157:web:4fc95c478cfc61ab1bcb9c","displayName":"Mawego Web App","projectId":"mawego-engineering-companion","webId":"NjliZjIxOGEtY2QyOS00YjczLWFkOTQtZDEyNWY3YjFiYWUz","apiKeyId":"ee298904-85e1-4a29-9ba9-b7b870ca92fc","state":"ACTIVE","expireTime":"1970-01-01T00:00:00Z","etag":"1_91390add-d38a-4020-a753-fc8ae6fff5c8"}]}
+[debug] [2025-10-22T14:37:43.112Z] No OAuth tokens found
+[debug] [2025-10-22T14:37:43.113Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/-/webApps/1:427557163157:web:4fc95c478cfc61ab1bcb9c/config [none]
+[debug] [2025-10-22T14:37:43.572Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/-/webApps/1:427557163157:web:4fc95c478cfc61ab1bcb9c/config 200
+[debug] [2025-10-22T14:37:43.577Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/-/webApps/1:427557163157:web:4fc95c478cfc61ab1bcb9c/config {"projectId":"mawego-engineering-companion","appId":"1:427557163157:web:4fc95c478cfc61ab1bcb9c","storageBucket":"mawego-engineering-companion.firebasestorage.app","apiKey":"AIzaSyC3O7QwYTtNG76FBFOj3oa0WFvqH8rWM4A","authDomain":"mawego-engineering-companion.firebaseapp.com","messagingSenderId":"427557163157","measurementId":"G-NRD40RXY29","projectNumber":"427557163157","version":"2"}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T14:55:22.816Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:55:22.816Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:55:22.817Z] No OAuth tokens found
+[debug] [2025-10-22T14:55:22.817Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T14:55:23.468Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T14:55:23.471Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T14:55:23.473Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:55:23.473Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:55:23.473Z] No OAuth tokens found
+[debug] [2025-10-22T14:55:23.473Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T14:55:23.647Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T14:55:23.649Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[debug] [2025-10-22T14:55:23.649Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:55:23.649Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T14:59:12.013Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:12.020Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:12.026Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:12.028Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:12.029Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:12.032Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:12.041Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T14:59:12.428Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:12.434Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:12.435Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:12.435Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:12.446Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:12.446Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:12.446Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T14:59:13.061Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T14:59:13.061Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T14:59:13.071Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:13.077Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:13.077Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.078Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.078Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:13.078Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:13.078Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T14:59:13.120Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T14:59:13.121Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T14:59:13.127Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:13.128Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:13.128Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.128Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.129Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:13.129Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:13.133Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T14:59:13.250Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T14:59:13.257Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[debug] [2025-10-22T14:59:13.258Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.259Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.259Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:13.259Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:13.261Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.262Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.262Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:13.262Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:13.262Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.263Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.263Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:13.263Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:13.264Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.265Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.265Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:13.265Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:13.265Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.265Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.265Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:13.266Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:13.266Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.266Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.266Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:13.266Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:13.267Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.268Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.268Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:13.268Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:13.268Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.269Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.269Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:13.269Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:13.269Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.269Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.269Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:13.270Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:13.270Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/ [none]
+[debug] [2025-10-22T14:59:13.271Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/ x-goog-quota-user=projects/mawego-engineering-companion
+[debug] [2025-10-22T14:59:13.274Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/storage.googleapis.com [none]
+[debug] [2025-10-22T14:59:13.274Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/storage.googleapis.com x-goog-quota-user=projects/mawego-engineering-companion
+[debug] [2025-10-22T14:59:13.281Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-10-22T14:59:13.281Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/mawego-engineering-companion
+[debug] [2025-10-22T14:59:13.287Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/identitytoolkit.googleapis.com [none]
+[debug] [2025-10-22T14:59:13.288Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/identitytoolkit.googleapis.com x-goog-quota-user=projects/mawego-engineering-companion
+[debug] [2025-10-22T14:59:13.290Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/fcm.googleapis.com [none]
+[debug] [2025-10-22T14:59:13.291Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/fcm.googleapis.com x-goog-quota-user=projects/mawego-engineering-companion
+[debug] [2025-10-22T14:59:13.294Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebaseremoteconfig.googleapis.com [none]
+[debug] [2025-10-22T14:59:13.294Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebaseremoteconfig.googleapis.com x-goog-quota-user=projects/mawego-engineering-companion
+[debug] [2025-10-22T14:59:13.298Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-10-22T14:59:13.299Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/mawego-engineering-companion
+[debug] [2025-10-22T14:59:13.303Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-10-22T14:59:13.303Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/mawego-engineering-companion
+[debug] [2025-10-22T14:59:13.308Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebaseio.com [none]
+[debug] [2025-10-22T14:59:13.309Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebaseio.com x-goog-quota-user=projects/mawego-engineering-companion
+[debug] [2025-10-22T14:59:13.457Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T14:59:13.458Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[debug] [2025-10-22T14:59:13.460Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.467Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.469Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:13.474Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:13.477Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.478Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.478Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:13.483Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:13.484Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.484Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.485Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:13.485Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:13.487Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.488Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.488Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:13.489Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:13.494Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.497Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.497Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:13.498Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:13.498Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.498Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.499Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:13.499Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:13.507Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.507Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.507Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:13.512Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:13.513Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.514Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.514Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:13.514Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:13.518Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.519Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:13.519Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:13.519Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:13.523Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/ [none]
+[debug] [2025-10-22T14:59:13.523Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/ x-goog-quota-user=projects/mawego-engineering-companion
+[debug] [2025-10-22T14:59:13.536Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/storage.googleapis.com [none]
+[debug] [2025-10-22T14:59:13.537Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/storage.googleapis.com x-goog-quota-user=projects/mawego-engineering-companion
+[debug] [2025-10-22T14:59:13.543Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-10-22T14:59:13.543Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/mawego-engineering-companion
+[debug] [2025-10-22T14:59:13.547Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/identitytoolkit.googleapis.com [none]
+[debug] [2025-10-22T14:59:13.548Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/identitytoolkit.googleapis.com x-goog-quota-user=projects/mawego-engineering-companion
+[debug] [2025-10-22T14:59:13.553Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/fcm.googleapis.com [none]
+[debug] [2025-10-22T14:59:13.553Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/fcm.googleapis.com x-goog-quota-user=projects/mawego-engineering-companion
+[debug] [2025-10-22T14:59:13.586Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebaseremoteconfig.googleapis.com [none]
+[debug] [2025-10-22T14:59:13.586Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebaseremoteconfig.googleapis.com x-goog-quota-user=projects/mawego-engineering-companion
+[debug] [2025-10-22T14:59:13.593Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-10-22T14:59:13.599Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/mawego-engineering-companion
+[debug] [2025-10-22T14:59:13.606Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-10-22T14:59:13.607Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/mawego-engineering-companion
+[debug] [2025-10-22T14:59:13.616Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebaseio.com [none]
+[debug] [2025-10-22T14:59:13.617Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebaseio.com x-goog-quota-user=projects/mawego-engineering-companion
+[debug] [2025-10-22T14:59:14.056Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebaseio.com 403
+[debug] [2025-10-22T14:59:14.056Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebaseio.com [omitted]
+[debug] [2025-10-22T14:59:14.099Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebaseremoteconfig.googleapis.com 200
+[debug] [2025-10-22T14:59:14.100Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebaseremoteconfig.googleapis.com [omitted]
+[debug] [2025-10-22T14:59:14.158Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-10-22T14:59:14.160Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-10-22T14:59:14.172Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-10-22T14:59:14.172Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-10-22T14:59:14.179Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/fcm.googleapis.com 200
+[debug] [2025-10-22T14:59:14.183Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/fcm.googleapis.com [omitted]
+[debug] [2025-10-22T14:59:14.200Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-10-22T14:59:14.200Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-10-22T14:59:14.204Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/storage.googleapis.com 200
+[debug] [2025-10-22T14:59:14.206Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/storage.googleapis.com [omitted]
+[debug] [2025-10-22T14:59:14.218Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/identitytoolkit.googleapis.com 200
+[debug] [2025-10-22T14:59:14.218Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/identitytoolkit.googleapis.com [omitted]
+[debug] [2025-10-22T14:59:14.447Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/ 200
+[debug] [2025-10-22T14:59:14.451Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/ [omitted]
+[debug] [2025-10-22T14:59:14.474Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/storage.googleapis.com 200
+[debug] [2025-10-22T14:59:14.474Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/storage.googleapis.com [omitted]
+[debug] [2025-10-22T14:59:14.485Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-10-22T14:59:14.485Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-10-22T14:59:14.506Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebaseio.com 403
+[debug] [2025-10-22T14:59:14.509Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebaseio.com [omitted]
+[debug] [2025-10-22T14:59:14.535Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/fcm.googleapis.com 200
+[debug] [2025-10-22T14:59:14.535Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/fcm.googleapis.com [omitted]
+[debug] [2025-10-22T14:59:14.564Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/identitytoolkit.googleapis.com 200
+[debug] [2025-10-22T14:59:14.565Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/identitytoolkit.googleapis.com [omitted]
+[debug] [2025-10-22T14:59:14.592Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebaseremoteconfig.googleapis.com 200
+[debug] [2025-10-22T14:59:14.593Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebaseremoteconfig.googleapis.com [omitted]
+[debug] [2025-10-22T14:59:14.633Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-10-22T14:59:14.634Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-10-22T14:59:14.651Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-10-22T14:59:14.651Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-10-22T14:59:14.734Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/ 200
+[debug] [2025-10-22T14:59:14.734Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/mawego-engineering-companion/services/ [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T14:59:14.738Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:14.738Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:14.739Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:14.740Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:14.740Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:14.741Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:14.741Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T14:59:14.920Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T14:59:14.923Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T14:59:14.930Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:14.930Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:14.932Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:14.933Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:14.933Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:14.933Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:14.933Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T14:59:15.365Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T14:59:15.366Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[debug] [2025-10-22T14:59:15.367Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:15.367Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T14:59:15.397Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:15.397Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:15.397Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:15.400Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:15.401Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:15.402Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:15.404Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T14:59:15.419Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:15.419Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:15.419Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:15.420Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:15.420Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:15.420Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:15.421Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T14:59:15.583Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T14:59:15.584Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T14:59:15.588Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:15.588Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:15.589Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:15.589Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:15.589Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:15.589Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:15.589Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T14:59:15.605Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T14:59:15.605Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T14:59:15.608Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:15.608Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:15.611Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:15.611Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:15.611Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:15.611Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:15.611Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T14:59:16.025Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T14:59:16.026Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[debug] [2025-10-22T14:59:16.027Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:16.027Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:16.233Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T14:59:16.233Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[debug] [2025-10-22T14:59:16.234Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:16.235Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T14:59:25.141Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:25.141Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:25.142Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:25.142Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:25.142Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:25.151Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:25.151Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:25.151Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:25.151Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:25.151Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:25.151Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:25.152Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:25.152Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T14:59:25.162Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T14:59:25.831Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T14:59:25.837Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T14:59:25.847Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:25.847Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:25.849Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:25.850Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:25.850Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:25.850Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:25.852Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T14:59:25.868Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T14:59:25.868Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T14:59:25.872Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:25.872Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:25.872Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:25.872Z] No OAuth tokens found
+[debug] [2025-10-22T14:59:25.872Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:25.873Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:25.873Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T14:59:25.998Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T14:59:26.006Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[debug] [2025-10-22T14:59:26.007Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:26.007Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T14:59:26.050Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T14:59:26.055Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[debug] [2025-10-22T14:59:26.056Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T14:59:26.056Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T15:00:27.441Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:00:27.441Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T15:00:27.442Z] No OAuth tokens found
+[debug] [2025-10-22T15:00:27.442Z] No OAuth tokens found
+[debug] [2025-10-22T15:00:27.442Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:00:27.442Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T15:00:27.442Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T15:00:28.093Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T15:00:28.093Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T15:00:28.098Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:00:28.098Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T15:00:28.099Z] No OAuth tokens found
+[debug] [2025-10-22T15:00:28.099Z] No OAuth tokens found
+[debug] [2025-10-22T15:00:28.099Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:00:28.102Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T15:00:28.103Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T15:00:28.260Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T15:00:28.260Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[debug] [2025-10-22T15:00:28.261Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:00:28.261Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T15:00:38.642Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:00:38.643Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T15:00:38.643Z] No OAuth tokens found
+[debug] [2025-10-22T15:00:38.647Z] No OAuth tokens found
+[debug] [2025-10-22T15:00:38.648Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:00:38.648Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T15:00:38.648Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T15:00:38.639Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:00:38.644Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T15:00:38.644Z] No OAuth tokens found
+[debug] [2025-10-22T15:00:38.645Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T15:00:38.872Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T15:00:38.873Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T15:00:38.879Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:00:38.879Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T15:00:38.881Z] No OAuth tokens found
+[debug] [2025-10-22T15:00:38.882Z] No OAuth tokens found
+[debug] [2025-10-22T15:00:38.882Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:00:38.882Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T15:00:38.882Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T15:00:39.305Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T15:00:39.305Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T15:00:39.310Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:00:39.312Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T15:00:39.313Z] No OAuth tokens found
+[debug] [2025-10-22T15:00:39.315Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T15:00:39.329Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T15:00:39.330Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[debug] [2025-10-22T15:00:39.330Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:00:39.330Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T15:00:39.369Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:00:39.369Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T15:00:39.373Z] No OAuth tokens found
+[debug] [2025-10-22T15:00:39.374Z] No OAuth tokens found
+[debug] [2025-10-22T15:00:39.374Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:00:39.374Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T15:00:39.374Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T15:00:39.391Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:00:39.391Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T15:00:39.392Z] No OAuth tokens found
+[debug] [2025-10-22T15:00:39.393Z] No OAuth tokens found
+[debug] [2025-10-22T15:00:39.393Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:00:39.393Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T15:00:39.393Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T15:00:39.478Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T15:00:39.479Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[debug] [2025-10-22T15:00:39.479Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:00:39.480Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T15:00:39.518Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:00:39.518Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T15:00:39.519Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:00:39.519Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T15:00:39.521Z] No OAuth tokens found
+[debug] [2025-10-22T15:00:39.522Z] No OAuth tokens found
+[debug] [2025-10-22T15:00:39.522Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T15:00:39.524Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T15:00:39.552Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T15:00:39.553Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T15:00:39.567Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:00:39.567Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T15:00:39.567Z] No OAuth tokens found
+[debug] [2025-10-22T15:00:39.567Z] No OAuth tokens found
+[debug] [2025-10-22T15:00:39.567Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:00:39.567Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T15:00:39.568Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T15:00:39.598Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T15:00:39.599Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T15:00:39.602Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:00:39.602Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T15:00:39.603Z] No OAuth tokens found
+[debug] [2025-10-22T15:00:39.603Z] No OAuth tokens found
+[debug] [2025-10-22T15:00:39.603Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:00:39.608Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T15:00:39.609Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T15:00:39.723Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T15:00:39.725Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T15:00:39.729Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:00:39.729Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T15:00:39.733Z] No OAuth tokens found
+[debug] [2025-10-22T15:00:39.733Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T15:00:39.903Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T15:00:39.906Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[debug] [2025-10-22T15:00:39.906Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:00:39.907Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T15:00:39.953Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T15:00:39.954Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T15:00:39.955Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:00:39.955Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T15:00:39.956Z] No OAuth tokens found
+[debug] [2025-10-22T15:00:39.956Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T15:00:40.008Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T15:00:40.008Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[debug] [2025-10-22T15:00:40.008Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:00:40.009Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T15:00:40.041Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T15:00:40.041Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[debug] [2025-10-22T15:00:40.041Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:00:40.042Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T15:00:40.157Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T15:00:40.157Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[debug] [2025-10-22T15:00:40.158Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:00:40.158Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T15:04:53.966Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:04:53.967Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T15:04:53.967Z] No OAuth tokens found
+[debug] [2025-10-22T15:04:53.967Z] No OAuth tokens found
+[debug] [2025-10-22T15:04:53.967Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:04:53.967Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T15:04:53.967Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T15:04:54.603Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T15:04:54.604Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T15:04:54.607Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:04:54.607Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T15:04:54.609Z] No OAuth tokens found
+[debug] [2025-10-22T15:04:54.610Z] No OAuth tokens found
+[debug] [2025-10-22T15:04:54.610Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:04:54.610Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T15:04:54.610Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 [none]
+[debug] [2025-10-22T15:04:54.775Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 200
+[debug] [2025-10-22T15:04:54.776Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/427557163157 {"projectNumber":"427557163157","projectId":"mawego-engineering-companion","lifecycleState":"ACTIVE","name":"Mawego Engineering companion ","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-07T11:11:51.882356Z"}
+[debug] [2025-10-22T15:04:54.776Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:04:54.776Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T15:04:54.782Z] No OAuth tokens found
+[debug] [2025-10-22T15:04:54.782Z] No OAuth tokens found
+[debug] [2025-10-22T15:04:54.785Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:04:54.786Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T15:04:54.788Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/mawego-engineering-companion/webApps pageSize=100
+[debug] [2025-10-22T15:04:55.013Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/mawego-engineering-companion/webApps 200
+[debug] [2025-10-22T15:04:55.013Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/mawego-engineering-companion/webApps {"apps":[{"name":"projects/mawego-engineering-companion/webApps/1:427557163157:web:4fc95c478cfc61ab1bcb9c","appId":"1:427557163157:web:4fc95c478cfc61ab1bcb9c","displayName":"Mawego Web App","projectId":"mawego-engineering-companion","webId":"NjliZjIxOGEtY2QyOS00YjczLWFkOTQtZDEyNWY3YjFiYWUz","apiKeyId":"ee298904-85e1-4a29-9ba9-b7b870ca92fc","state":"ACTIVE","expireTime":"1970-01-01T00:00:00Z","etag":"1_91390add-d38a-4020-a753-fc8ae6fff5c8"}]}
+[debug] [2025-10-22T15:04:55.019Z] No OAuth tokens found
+[debug] [2025-10-22T15:04:55.019Z] No OAuth tokens found
+[debug] [2025-10-22T15:04:55.019Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-22T15:04:55.020Z] > authorizing via signed-in user (nephatoduor52@gmail.com)
+[debug] [2025-10-22T15:04:55.020Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/-/webApps/1:427557163157:web:4fc95c478cfc61ab1bcb9c/config [none]
+[debug] [2025-10-22T15:04:55.556Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/-/webApps/1:427557163157:web:4fc95c478cfc61ab1bcb9c/config 200
+[debug] [2025-10-22T15:04:55.557Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/-/webApps/1:427557163157:web:4fc95c478cfc61ab1bcb9c/config {"projectId":"mawego-engineering-companion","appId":"1:427557163157:web:4fc95c478cfc61ab1bcb9c","storageBucket":"mawego-engineering-companion.firebasestorage.app","apiKey":"AIzaSyC3O7QwYTtNG76FBFOj3oa0WFvqH8rWM4A","authDomain":"mawego-engineering-companion.firebaseapp.com","messagingSenderId":"427557163157","measurementId":"G-NRD40RXY29","projectNumber":"427557163157","version":"2"}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T16:25:50.360Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T16:25:50.492Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T16:25:56.185Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T16:25:56.215Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T17:28:30.876Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T17:28:30.969Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T17:28:33.294Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-22T17:28:33.304Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
